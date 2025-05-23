@@ -1,0 +1,4 @@
+ATTACK
+TYPE|#clientID|T1-T2
+JOIN
+TYPE|#clientID|(clientID) joined.
